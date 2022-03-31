@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 75,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "time": 84,
+    "timeDay": 79,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Secret site",
+    "url": "$secret_site",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "secret-site",
+    "status": "down",
+    "uptime": "11.91%",
+    "uptimeDay": "11.91%",
+    "uptimeWeek": "11.91%",
+    "uptimeMonth": "11.91%",
+    "uptimeYear": "11.91%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   },
   {
     "name": "Test Broken Site",
