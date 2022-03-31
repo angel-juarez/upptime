@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Secret site
-    url: $secret_site
+    url: $SECRET_SITE
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
