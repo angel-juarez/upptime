@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 204,
-    "timeWeek": 123,
+    "timeDay": 212,
+    "timeWeek": 125,
     "timeMonth": 144,
     "timeYear": 107,
-    "dailyMinutesDown": {
-      "2023-07-12": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
